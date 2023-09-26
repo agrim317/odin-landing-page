@@ -194,3 +194,13 @@ button {
     border: 2px solid white;
     font-weight: bold;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    height: 70px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
